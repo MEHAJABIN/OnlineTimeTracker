@@ -10,11 +10,11 @@ The OnlineTimeTrack is a web project created in Asp.net core Web-Api framework a
 
 User module will have the following features
 
-   1.AddUser (SuperAdmin)
-   2.Login
-   3.ListUsers (SuperAdmin)
-   4.GetUser
-   5.UpdateUser (SuperAdmin) - optional
+   .AddUser (SuperAdmin)
+   .Login
+   .ListUsers (SuperAdmin)
+   .GetUser
+   .UpdateUser (SuperAdmin) - optional
 
 ### Projects
 
