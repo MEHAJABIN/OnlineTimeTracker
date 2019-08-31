@@ -20,10 +20,10 @@ User module will have the following features
 
  Projects module are used to track the projects of the organization. It supports the following features.
 
-   1.Add Projects (SuperAdmin)
-   2.Update Project (SuperAdmin)
-   3.Add Users to Project (SuperAdmin)
-   4.List Projects
+    1.Add Projects (SuperAdmin)
+    2.Update Project (SuperAdmin)
+    3.Add Users to Project (SuperAdmin)
+    4.List Projects
 
 ### WorkLogs
 
