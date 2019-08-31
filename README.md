@@ -8,7 +8,7 @@ The OnlineTimeTrack is a web project created in Asp.net core Web-Api framework a
 
 ### User
 
-## User module will have the following features
+User module will have the following features
 
    1.AddUser (SuperAdmin)
    2.Login
@@ -18,7 +18,7 @@ The OnlineTimeTrack is a web project created in Asp.net core Web-Api framework a
 
 ### Projects
 
-## Projects module are used to track the projects of the organization. It supports the following features.
+ Projects module are used to track the projects of the organization. It supports the following features.
 
    1.Add Projects (SuperAdmin)
    2.Update Project (SuperAdmin)
@@ -27,7 +27,7 @@ The OnlineTimeTrack is a web project created in Asp.net core Web-Api framework a
 
 ### WorkLogs
 
-## Worklogs can be created for each projects and users can record their estimated time for a work item and the actual time.
+ Worklogs can be created for each projects and users can record their estimated time for a work item and the actual time.
 
     1.Add to Worklog
     2.Update the worklog
@@ -36,12 +36,12 @@ The OnlineTimeTrack is a web project created in Asp.net core Web-Api framework a
 
 ### TimeLogs
 
-## TimeLogs can be created against each worklog, and each worklog can have multiple timelog.
+ TimeLogs can be created against each worklog, and each worklog can have multiple timelog.
 
     1.Add timelog to a worklog
     2.list timelogs of a worklog
     3.Delete timelog
 
-Reporting
+### Reporting
 
 Reporting module is planned for future.
